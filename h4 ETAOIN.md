@@ -1,6 +1,6 @@
-# h3
+# h4
 
-Chapter 1 foundations: 
+x) Chapter 1 foundations: 
 The main function of encryption is to disguise ones plaintext message from eavesdroppers by using cryptography.
  However there is additional functions that are asked other than confidentiality: Authentication, Integrity, Nonrepudiation. 
 Authentication: for the receiver of the message to gain knowledge of the origin of said massage. 
@@ -11,10 +11,10 @@ It used to be so that the algorithm was kept as a secret when sending secret inf
 
 There exists unique ways to hide the existence of the whole message, steganography, which has been recently used in hiding messages in graphic images. One does this by replacing the least significant elements of the image and adding in it the hidden message. 
 
-B) The character frequency table in Spanish: 
+Y) The character frequency table in Spanish: 
 ![Screenshot 2023-09-16 184300](https://github.com/EmilioLehto/InformationSecurity/assets/113890358/30501759-dc8a-4c0c-9cae-bd6e1fc52708)
 
-z) Choose a password manager. Explain:  BitWarden
+Z) Choose a password manager. Explain:  BitWarden
 What threats does it protect against?
 Against attackers that want to steal my data by having a keylogger or by knowing a password of my own that gets used frequently in different websites. 
 
