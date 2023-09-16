@@ -1,16 +1,2 @@
-# x) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
-€ Schneier 2015: Applied Cryptography: Chapter 1: Foundations
-    - Chapter 1 Foundations: 
-The main function of encryption is to disguise one's plaintext message from eavesdroppers by using cryptography.
- However, there is additional functions that are asked for other than confidentiality: Authentication, Integrity, and Nonrepudiation. 
-Authentication: for the receiver of the message to gain knowledge of the origin of said message. 
-Integrity: to have certainty that a message hasn’t been tampered with or changed by any third party.
-Non-repudiation: The sender has a digital fingerprint on the message and cant claim that the message wasn’t sent to him. 
-A cryptographic also known as a cipher is a mathematical function that is used in enciphering and deciphering. Algorithms differ from degrees of security as they all don’t need to be created equal. A good rule of thumb is that if the value of deciphering the message is larger than the value of the message then the data is most likely safe. 
-It used to be so that the algorithm was kept a secret when sending secret information, but nowadays that would be a naïve method believing that nobody will figure out the algorithm. New methods have come into place like making keys.
 
-There exist unique ways to hide the existence of the whole message, steganography, which has been recently used in hiding messages in graphic images. One does this by replacing the least significant elements of the image and adding the hidden message. 
-
-y) Find out the frequency distribution of letters for a language that you know (other than English). What are the six most common letters? (This subtask y does not require tests with a computer if the question can be answered without them)
-The character frequency table in Spanish: 
 ![Screenshot 2023-09-16 184300](https://github.com/EmilioLehto/InformationSecurity/assets/113890358/334f9e6c-4949-481a-9f50-b5a243659d6d)
